@@ -1,0 +1,11 @@
+{
+    "name" : "check-colorblock-maxi-skirt",
+    "img" : "check-colorblock-maxi-skirt.png",
+    "price" : 32,
+    "size" : {
+        "smallS" : true,
+        "mediumS" : true,
+        "largeS" : true,
+        "x_largeS" : true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "name" : "brown-cutout-top",
+    "img" : "brown-cutout-top.png",
+    "price" : 14,
+    "size" : {
+        "smallS" : true,
+        "mediumS" : true,
+        "largeS" : true,
+        "x_largeS" : true
+    }
+}

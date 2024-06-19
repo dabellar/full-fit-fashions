@@ -1,0 +1,11 @@
+{
+    "name" : "gray-square-neck-top",
+    "img" : "gray-square-neck-top.png",
+    "price" : 22,
+    "size" : {
+        "smallS" : true,
+        "mediumS" : true,
+        "largeS" : true,
+        "x_largeS" : true
+    }
+}

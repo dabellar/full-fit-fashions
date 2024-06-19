@@ -1,0 +1,11 @@
+{
+    "name" : "navy-blue-bear-sweater",
+    "img" : "navy-blue-bear-sweater.png",
+    "price" : 36,
+    "size" : {
+        "smallS" : true,
+        "mediumS" : true,
+        "largeS" : true,
+        "x_largeS" : true
+    }
+}

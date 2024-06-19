@@ -1,0 +1,11 @@
+{
+    "name" : "green-houndstooth-pants",
+    "img" : "green-houndstooth-pants.png",
+    "price" : 32,
+    "size" : {
+        "smallS" : true,
+        "mediumS" : true,
+        "largeS" : true,
+        "x_largeS" : true
+    }
+}

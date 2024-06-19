@@ -1,0 +1,11 @@
+{
+    "name" : "pink-striped-pants",
+    "img" : "pink-striped-pants.png",
+    "price" : 30,
+    "size" : {
+        "smallS" : true,
+        "mediumS" : true,
+        "largeS" : true,
+        "x_largeS" : true
+    }
+}

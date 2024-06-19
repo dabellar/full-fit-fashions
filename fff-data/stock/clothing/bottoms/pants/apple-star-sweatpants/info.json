@@ -1,0 +1,11 @@
+{
+    "name" : "apple-star-sweatpants",
+    "img" : "apple-star-sweatpants.png",
+    "price" : 32,
+    "size" : {
+        "smallS" : true,
+        "mediumS" : true,
+        "largeS" : true,
+        "x_largeS" : true
+    }
+}

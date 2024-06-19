@@ -1,0 +1,11 @@
+{
+    "name" : "bus-graphic-sweater",
+    "img" : "bus-graphic-sweater.png",
+    "price" : 36,
+    "size" : {
+        "smallS" : true,
+        "mediumS" : true,
+        "largeS" : true,
+        "x_largeS" : true
+    }
+}

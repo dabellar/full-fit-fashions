@@ -1,0 +1,11 @@
+{
+    "name" : "blue-cami-crop-top",
+    "img" : "blue-cami-crop-top.png",
+    "price" : 14,
+    "size" : {
+        "smallS" : true,
+        "mediumS" : true,
+        "largeS" : true,
+        "x_largeS" : true
+    }
+}

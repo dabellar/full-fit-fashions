@@ -1,0 +1,11 @@
+{
+    "name" : "gingham-backless-tank-top",
+    "img" : "gingham-backless-tank-top.png",
+    "price" : 14,
+    "size" : {
+        "smallS" : true,
+        "mediumS" : true,
+        "largeS" : true,
+        "x_largeS" : true
+    }
+}

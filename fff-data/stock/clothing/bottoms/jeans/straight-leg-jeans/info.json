@@ -1,0 +1,11 @@
+{
+    "name" : "straight-leg-jeans",
+    "img" : "straight-leg-jeans.png",
+    "price" : 32,
+    "size" : {
+        "smallS" : true,
+        "mediumS" : true,
+        "largeS" : true,
+        "x_largeS" : true
+    }
+}

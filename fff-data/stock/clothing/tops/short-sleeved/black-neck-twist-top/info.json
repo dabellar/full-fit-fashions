@@ -1,0 +1,11 @@
+{
+    "name" : "black-neck-twist-top",
+    "img" : "black-neck-twist-top.png",
+    "price" : 12,
+    "size" : {
+        "smallS" : true,
+        "mediumS" : true,
+        "largeS" : true,
+        "x_largeS" : true
+    }
+}

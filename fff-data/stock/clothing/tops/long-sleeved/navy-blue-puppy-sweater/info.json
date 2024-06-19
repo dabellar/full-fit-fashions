@@ -1,0 +1,11 @@
+{
+    "name" : "navy-blue-puppy-sweater",
+    "img" : "navy-blue-puppy-sweater.png",
+    "price" : 28,
+    "size" : {
+        "smallS" : true,
+        "mediumS" : true,
+        "largeS" : true,
+        "x_largeS" : true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "name" : "cream-floral-maxi-skirt",
+    "img" : "cream-floral-maxi-skirt.png",
+    "price" : 38,
+    "size" : {
+        "smallS" : true,
+        "mediumS" : true,
+        "largeS" : true,
+        "x_largeS" : true
+    }
+}

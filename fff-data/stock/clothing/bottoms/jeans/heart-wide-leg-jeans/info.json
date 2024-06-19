@@ -1,0 +1,11 @@
+{
+    "name" : "heart-wide-leg-jeans",
+    "img" : "heart-wide-leg-jeans.png",
+    "price" : 36,
+    "size" : {
+        "smallS" : true,
+        "mediumS" : true,
+        "largeS" : true,
+        "x_largeS" : true
+    }
+}

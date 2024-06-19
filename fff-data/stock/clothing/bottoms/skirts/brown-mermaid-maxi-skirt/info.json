@@ -1,0 +1,11 @@
+{
+    "name" : "brown-mermaid-maxi-skirt",
+    "img" : "brown-mermaid-maxi-skirt.png",
+    "price" : 18,
+    "size" : {
+        "smallS" : true,
+        "mediumS" : true,
+        "largeS" : true,
+        "x_largeS" : true
+    }
+}

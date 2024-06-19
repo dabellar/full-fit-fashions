@@ -1,0 +1,11 @@
+{
+    "name" : "navy-blue-graphic-tee",
+    "img" : "navy-blue-graphic-tee.png",
+    "price" : 14,
+    "size" : {
+        "smallS" : true,
+        "mediumS" : true,
+        "largeS" : true,
+        "x_largeS" : true
+    }
+}

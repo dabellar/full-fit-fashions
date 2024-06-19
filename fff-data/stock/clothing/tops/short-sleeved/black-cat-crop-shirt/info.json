@@ -1,0 +1,11 @@
+{
+    "name" : "black-cat-crop-shirt",
+    "img" : "black-cat-crop-shirt.png",
+    "price" : 20,
+    "size" : {
+        "smallS" : true,
+        "mediumS" : true,
+        "largeS" : true,
+        "x_largeS" : true
+    }
+}

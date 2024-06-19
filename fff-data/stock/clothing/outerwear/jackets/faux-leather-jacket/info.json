@@ -1,0 +1,11 @@
+{
+    "name" : "faux-leather-jacket",
+    "img" : "faux-leather-jacket.png",
+    "price" : 54,
+    "size" : {
+        "smallS" : true,
+        "mediumS" : true,
+        "largeS" : true,
+        "x_largeS" : true
+    }
+}

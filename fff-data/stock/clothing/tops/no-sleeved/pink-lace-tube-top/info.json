@@ -1,0 +1,11 @@
+{
+    "name" : "pink-lace-tube-top",
+    "img" : "pink-lace-tube-top.png",
+    "price" : 12,
+    "size" : {
+        "smallS" : true,
+        "mediumS" : true,
+        "largeS" : true,
+        "x_largeS" : true
+    }
+}

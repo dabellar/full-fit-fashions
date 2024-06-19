@@ -1,0 +1,11 @@
+{
+    "name" : "pink-off-shoulder.top",
+    "img" : "pink-off-shoulder.top.png",
+    "price" : 14,
+    "size" : {
+        "smallS" : true,
+        "mediumS" : true,
+        "largeS" : true,
+        "x_largeS" : true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "name" : "butterfly-denim-shorts",
+    "img" : "butterfly-denim-shorts.png",
+    "price" : 24,
+    "size" : {
+        "smallS" : true,
+        "mediumS" : true,
+        "largeS" : true,
+        "x_largeS" : true
+    }
+}

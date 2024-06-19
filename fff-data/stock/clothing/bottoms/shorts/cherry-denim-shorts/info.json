@@ -1,0 +1,11 @@
+{
+    "name" : "cherry-denim-shorts",
+    "img" : "cherry-denim-shorts.png",
+    "price" : 26,
+    "size" : {
+        "smallS" : true,
+        "mediumS" : true,
+        "largeS" : true,
+        "x_largeS" : true
+    }
+}

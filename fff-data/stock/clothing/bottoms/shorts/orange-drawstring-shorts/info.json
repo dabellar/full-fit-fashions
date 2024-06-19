@@ -1,0 +1,11 @@
+{
+    "name" : "orange-drawstring-shorts",
+    "img" : "orange-drawstring-shorts.png",
+    "price" : 16,
+    "size" : {
+        "smallS" : true,
+        "mediumS" : true,
+        "largeS" : true,
+        "x_largeS" : true
+    }
+}

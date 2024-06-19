@@ -1,0 +1,11 @@
+{
+    "name" : "bow-ruffle-maxi-skirt",
+    "img" : "bow-ruffle-maxi-skirt.png",
+    "price" : 24,
+    "size" : {
+        "smallS" : true,
+        "mediumS" : true,
+        "largeS" : true,
+        "x_largeS" : true
+    }
+}

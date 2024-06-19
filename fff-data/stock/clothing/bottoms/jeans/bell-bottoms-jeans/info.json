@@ -1,0 +1,11 @@
+{
+    "name" : "bell-bottoms-jeans",
+    "img" : "bell-bottoms-jeans.png",
+    "price" : 32,
+    "size" : {
+        "smallS" : true,
+        "mediumS" : true,
+        "largeS" : true,
+        "x_largeS" : true
+    }
+}

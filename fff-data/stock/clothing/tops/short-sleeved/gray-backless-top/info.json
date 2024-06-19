@@ -1,0 +1,11 @@
+{
+    "name" : "gray-backless-top",
+    "img" : "gray-backless-top.png",
+    "price" : 16,
+    "size" : {
+        "smallS" : true,
+        "mediumS" : true,
+        "largeS" : true,
+        "x_largeS" : true
+    }
+}

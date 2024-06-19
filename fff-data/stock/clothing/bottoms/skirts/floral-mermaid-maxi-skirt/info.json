@@ -1,0 +1,11 @@
+{
+    "name" : "floral-mermaid-maxi-skirt",
+    "img" : "floral-mermaid-maxi-skirt.png",
+    "price" : 22,
+    "size" : {
+        "smallS" : true,
+        "mediumS" : true,
+        "largeS" : true,
+        "x_largeS" : true
+    }
+}
