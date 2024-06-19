@@ -1,0 +1,13 @@
+{
+    "name" : "brown-platform-loafers",
+    "img" : "brown-platform-loafers.png",
+    "price" : 33,
+    "size" : {
+        "6" : true,
+        "7" : true,
+        "8" : true,
+        "9" : true,
+        "10" : true,
+        "11" : true
+    }
+}

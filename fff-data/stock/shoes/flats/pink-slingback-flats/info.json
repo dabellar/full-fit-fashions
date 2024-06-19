@@ -1,0 +1,13 @@
+{
+    "name" : "pink-slingback-flats",
+    "img" : "pink-slingback-flats.png",
+    "price" : 29,
+    "size" : {
+        "6" : true,
+        "7" : true,
+        "8" : true,
+        "9" : true,
+        "10" : true,
+        "11" : true
+    }
+}
