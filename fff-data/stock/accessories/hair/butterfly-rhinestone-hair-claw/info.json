@@ -1,0 +1,8 @@
+{
+    "name" : "butterfly-rhinestone-hair-claw",
+    "img" : "butterfly-rhinestone-hair-claw.png",
+    "price" : 9,
+    "size" : {
+        "one_sizeS" : true
+    }
+}

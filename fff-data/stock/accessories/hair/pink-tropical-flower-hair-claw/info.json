@@ -1,0 +1,8 @@
+{
+    "name" : "pink-tropical-flower-hair-claw",
+    "img" : "pink-tropical-flower-hair-claw.png",
+    "price" : 4,
+    "size" : {
+        "one_sizeS" : true
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "name" : "bow-pendant-necklace",
+    "img" : "bow-pendant-necklace.png",
+    "price" : 5,
+    "size" : {
+        "one_sizeS" : true
+    }
+}

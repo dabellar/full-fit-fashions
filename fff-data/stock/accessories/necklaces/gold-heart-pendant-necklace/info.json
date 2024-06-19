@@ -1,0 +1,8 @@
+{
+    "name" : "gold-heart-pendant-necklace",
+    "img" : "gold-heart-pendant-necklace.png",
+    "price" : 14,
+    "size" : {
+        "one_sizeS" : true
+    }
+}

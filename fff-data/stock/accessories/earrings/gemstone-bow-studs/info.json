@@ -1,0 +1,8 @@
+{
+    "name" : "gemstone-bow-studs",
+    "img" : "gemstone-bow-studs.png",
+    "price" : 8,
+    "size" : {
+        "one_sizeS" : true
+    }
+}

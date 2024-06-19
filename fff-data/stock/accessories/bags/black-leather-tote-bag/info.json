@@ -1,0 +1,8 @@
+{
+    "name" : "black-leather-tote-bag",
+    "img" : "black-leather-tote-bag.png",
+    "price" : 45,
+    "size" : {
+        "one_sizeS" : true
+    }
+}

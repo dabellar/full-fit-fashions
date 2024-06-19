@@ -1,0 +1,8 @@
+{
+    "name" : "rhinestone-pearl-star-earrings",
+    "img" : "rhinestone-pearl-star-earrings.png",
+    "price" : 8,
+    "size" : {
+        "one_sizeS" : true
+    }
+}

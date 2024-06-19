@@ -1,0 +1,8 @@
+{
+    "name" : "sun-stone-earrings",
+    "img" : "sun-stone-earrings.png",
+    "price" : 7,
+    "size" : {
+        "one_sizeS" : true
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "name" : "blue-tropical-flower-hair-claw",
+    "img" : "blue-tropical-flower-hair-claw.png",
+    "price" : 4,
+    "size" : {
+        "one_sizeS" : true
+    }
+}

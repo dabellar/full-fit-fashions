@@ -1,0 +1,8 @@
+{
+    "name" : "pink-tweed-tote-bag",
+    "img" : "pink-tweed-tote-bag.png",
+    "price" : 35,
+    "size" : {
+        "one_sizeS" : true
+    }
+}

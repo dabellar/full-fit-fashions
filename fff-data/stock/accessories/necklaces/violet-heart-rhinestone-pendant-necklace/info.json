@@ -1,0 +1,8 @@
+{
+    "name" : "violet-heart-rhinestone-pendant-necklace",
+    "img" : "violet-heart-rhinestone-pendant-necklace.png",
+    "price" : 6,
+    "size" : {
+        "one_sizeS" : true
+    }
+}

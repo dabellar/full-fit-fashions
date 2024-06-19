@@ -1,0 +1,8 @@
+{
+    "name" : "pearl-drop-hoops",
+    "img" : "pearl-drop-hoops.png",
+    "price" : 12,
+    "size" : {
+        "one_sizeS" : true
+    }
+}

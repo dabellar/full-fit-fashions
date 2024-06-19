@@ -1,0 +1,8 @@
+{
+    "name" : "terry-colorblock-braided-bag",
+    "img" : "terry-colorblock-braided-bag.png",
+    "price" : 15,
+    "size" : {
+        "one_sizeS" : true
+    }
+}

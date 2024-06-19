@@ -1,0 +1,8 @@
+{
+    "name" : "floral-metallic-headband",
+    "img" : "floral-metallic-headband.png",
+    "price" : 9,
+    "size" : {
+        "one_sizeS" : true
+    }
+}

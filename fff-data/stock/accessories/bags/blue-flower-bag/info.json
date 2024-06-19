@@ -1,0 +1,8 @@
+{
+    "name" : "blue-flower-bag",
+    "img" : "blue-flower-bag.png",
+    "price" : 33,
+    "size" : {
+        "one_sizeS" : true
+    }
+}

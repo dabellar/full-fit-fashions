@@ -1,0 +1,8 @@
+{
+    "name" : "butterfly-hair-claw",
+    "img" : "butterfly-hair-claw.png",
+    "price" : 8,
+    "size" : {
+        "one_sizeS" : true
+    }
+}

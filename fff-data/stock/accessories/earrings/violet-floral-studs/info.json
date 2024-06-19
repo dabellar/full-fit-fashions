@@ -1,0 +1,8 @@
+{
+    "name" : "violet-floral-studs",
+    "img" : "violet-floral-studs.png",
+    "price" : 4,
+    "size" : {
+        "one_sizeS" : true
+    }
+}

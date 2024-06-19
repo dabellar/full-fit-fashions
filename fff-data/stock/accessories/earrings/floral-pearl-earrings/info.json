@@ -1,0 +1,8 @@
+{
+    "name" : "floral-pearl-earrings",
+    "img" : "floral-pearl-earrings.png",
+    "price" : 6,
+    "size" : {
+        "one_sizeS" : true
+    }
+}

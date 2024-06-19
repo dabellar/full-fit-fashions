@@ -1,0 +1,8 @@
+{
+    "name" : "rhinestone-cherry-hair-claw",
+    "img" : "rhinestone-cherry-hair-claw.png",
+    "price" : 8,
+    "size" : {
+        "one_sizeS" : true
+    }
+}

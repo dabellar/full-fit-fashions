@@ -1,0 +1,8 @@
+{
+    "name" : "green-water-drop-earrings",
+    "img" : "green-water-drop-earrings.png",
+    "price" : 4,
+    "size" : {
+        "one_sizeS" : true
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "name" : "moon-star-long-necklace",
+    "img" : "moon-star-long-necklace.png",
+    "price" : 6,
+    "size" : {
+        "one_sizeS" : true
+    }
+}

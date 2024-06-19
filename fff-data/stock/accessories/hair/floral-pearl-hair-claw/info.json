@@ -1,0 +1,8 @@
+{
+    "name" : "floral-pearl-hair-claw",
+    "img" : "floral-pearl-hair-claw.png",
+    "price" : 5,
+    "size" : {
+        "one_sizeS" : true
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "name" : "heart-tassel-earrings",
+    "img" : "heart-tassel-earrings.png",
+    "price" : 8,
+    "size" : {
+        "one_sizeS" : true
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "name" : "brown-straw-tote-bag",
+    "img" : "brown-straw-tote-bag.png",
+    "price" : 33,
+    "size" : {
+        "one_sizeS" : true
+    }
+}

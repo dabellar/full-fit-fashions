@@ -1,0 +1,8 @@
+{
+    "name" : "pink-bow-headband",
+    "img" : "pink-bow-headband.png",
+    "price" : 7,
+    "size" : {
+        "one_sizeS" : true
+    }
+}

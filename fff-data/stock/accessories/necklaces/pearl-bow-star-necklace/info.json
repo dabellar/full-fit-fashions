@@ -1,0 +1,8 @@
+{
+    "name" : "pearl-bow-star-necklace",
+    "img" : "pearl-bow-star-necklace.png",
+    "price" : 8,
+    "size" : {
+        "one_sizeS" : true
+    }
+}

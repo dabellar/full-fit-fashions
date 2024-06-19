@@ -1,0 +1,8 @@
+{
+    "name" : "cherry-earrings",
+    "img" : "cherry-earrings.png",
+    "price" : 6,
+    "size" : {
+        "one_sizeS" : true
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "name" : "sun-star-moon-earrings",
+    "img" : "sun-star-moon-earrings.png",
+    "price" : 6,
+    "size" : {
+        "one_sizeS" : true
+    }
+}

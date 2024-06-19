@@ -1,0 +1,8 @@
+{
+    "name" : "black-velvet-headband",
+    "img" : "black-velvet-headband.png",
+    "price" : 4,
+    "size" : {
+        "one_sizeS" : true
+    }
+}

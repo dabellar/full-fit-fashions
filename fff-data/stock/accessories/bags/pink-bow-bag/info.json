@@ -1,0 +1,8 @@
+{
+    "name" : "pink-bow-bag",
+    "img" : "pink-bow-bag.png",
+    "price" : 47,
+    "size" : {
+        "one_sizeS" : true
+    }
+}

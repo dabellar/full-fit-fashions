@@ -1,0 +1,8 @@
+{
+    "name" : "star-moon-beaded-necklace",
+    "img" : "star-moon-beaded-necklace.png",
+    "price" : 9,
+    "size" : {
+        "one_sizeS" : true
+    }
+}
