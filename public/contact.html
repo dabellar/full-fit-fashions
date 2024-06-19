@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<!-- 
+    Name: Darleine Abellard
+    CS 132 SP 2024 
+    Final Project: Full Fit Fashions
+    This is the admin.html for Full Fit Fashions. This will allow admin to add inventory to the store.
+ -->
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Contact Us!</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- LOGO CREDITS - Mix of:
+            https://www.flaticon.com/free-icons/mannequin" created by Icongeek26 
+            https://www.flaticon.com/free-icons/choose" created by juicy_fish
+    -->
+    <link rel="shortcut icon" href="imgs/website-logo.png" type="image/png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Moirai+One&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="non-shopping-styles.css">
+    <script src="utils.js"></script>
+    <script defer src="contact.js"></script>
+</head>
+<body>
+    <header>
+        <div>
+            <img src="imgs/website-logo.png" alt="Full Fit Fashions logo">
+            <h1>FULL FIT FASHIONS</h1>
+            <nav>
+                <ul>
+                    <li><a href="index.html">Shopping</a></li>
+                    <li><a href="admin.html">Admin</a></li>
+                    <li><a href="#top">Contact</a></li>
+                    <li><a href="faq.html">FAQs</a></li>
+                </ul>
+            </nav>
+        </div>
+        <p><span>Total Outfits for Total Confidence</span></p>
+        <h2>GIVE US FEEDBACK</h2>
+    </header>
+    <main>
+        <form id="contact-form">
+            <label for="name">Name: <input name="name" type="text" id="name" required/></label>
+            <label for="email">Email: <input name="email" type="email" id="email" required/></label>
+            <label for="content">Comment: </label>
+            <textarea name="content" id="content" required></textarea>
+            <input id="contact-submit-btn" type="submit" value="Send!"/>
+            <div id="confirmation"></div>
+        </form>
+    </main>
+    <footer>
+        <p>Darleine Abellard &copy; 2024</p>
+    </footer>
+</body>
+</html>

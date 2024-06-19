@@ -1,0 +1,42 @@
+/* 
+    Name: Darleine Abellard
+    CS 132 SP 2024
+    Final Project
+    This is the style sheet for the single product view of Full Fit Fashions.
+    It includes the layout of the product image and information.
+*/
+
+/* REMOVE */
+#product-view img {
+    margin: 2%;
+    width: 48%; 
+}
+
+#product-view, #product-view div {
+    display: flex;
+}
+
+#product-view article {
+    width: 48%;
+    margin: 0% 2%;
+}
+
+#product-view h3 {
+    font-size: 34pt;
+    font-weight: 300;
+}
+
+#product-view p, #product-view span {
+    font-size: 16pt;
+}
+
+#size {
+    gap: 10px;
+}
+
+#size span {
+    width: 100px;
+    text-align: center;
+    border-radius: 10px;
+    border: 2px solid black;
+}

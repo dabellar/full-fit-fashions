@@ -1,0 +1,71 @@
+/* 
+    Name: Darleine Abellard
+    CS 132 SP 2024
+    Final Project
+    This is the cart style sheet. Styles the cart modal/popup when visible.
+*/
+
+dialog::backdrop {
+    background-color: black;
+    opacity: 0.75;
+}
+
+dialog[open] img {
+    width: 100px;
+}
+
+dialog[open], dialog[open] article, dialog[open] > div {
+    display: flex;
+}
+
+dialog[open] {
+    flex-direction: column;
+    gap: 30px;
+    width: 75%;
+    height: 75%;
+    overflow: auto;
+}
+
+#close-cart-btn {
+    align-self: end;
+    border: none;
+    border-radius: 100%;
+    padding: 0%;
+    background-color: transparent;
+}
+
+#close-cart-icon {
+    width: 30px;
+    vertical-align: middle;
+}
+
+dialog[open] > div {
+    flex-direction: column;
+    gap: 30px;
+}
+
+dialog[open] article {
+    margin-left: 30px;
+    height: fit-content;
+    gap: 100px;
+}
+
+#buy-btn {
+    width: 10%;
+    align-self: center;
+    padding: 10px;
+    background-color: transparent;
+    border-radius: 80px;
+}
+
+#close-cart-btn:hover, #buy-btn:hover {
+    background-color: #50D1D3;
+}
+
+#close-cart-btn:active, #buy-btn:active {
+    background-color: #F9509F;
+}
+
+dialog > p {
+    text-align: center;
+}

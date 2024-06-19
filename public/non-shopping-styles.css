@@ -1,0 +1,190 @@
+/* 
+    Name: Darleine Abellard
+    CS 132 SP 2024
+    Final Project
+    This is the non-shopping page styles page for Full Fit Fashions.
+    The non-shopping pages are the admin (updating page), contact form, 
+    and the frequently asked questions page.
+    It includes all the styling and layout for the entire site.
+*/
+
+.hidden, #admin.hidden, #confirmation.hidden{
+    display: none;
+}
+
+header img {
+    width: 45px;
+}
+
+a, a:visited {
+    text-decoration: none;
+}
+
+body {
+    font-family: "Montserrat", sans-serif;
+    margin: 0;  
+    color: #541388;
+}
+
+main {
+    height: 100vh;
+    max-height: fit-content;
+    justify-content: center;
+}
+
+main p {
+    font-weight: 400;
+}
+
+header, header div, nav ul, form, main, footer,
+#admin, #faq{
+    display: flex;
+}
+
+header, form, #admin, #faq {
+    flex-direction: column;
+}
+
+header div {
+    justify-content: space-between;
+    align-items: center;
+    padding: 0% 2%;
+}
+
+header h1 {
+    font-family: "Moirai One", system-ui;
+    font-size: 40pt;
+    margin: 1% 0% 1% 226px;
+    color: #541388;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0%;
+    gap: 10px;
+    font-weight: 500;
+}
+
+nav a {
+    color: #541388;
+}
+
+nav a:hover {
+    color: #50D1D3;
+}
+
+nav a:active {
+    color: #F9509F;
+}
+
+header > p {
+    margin: 0%;
+    text-align: center;
+}
+
+header span {
+    color: #50D1D3;
+    font-style: italic;
+    font-weight: 500;
+}
+
+header h2 {
+    margin-bottom: 0%;
+    padding: 11px;
+    font-weight: 300;
+    text-align: center;
+    background-color: #541388;
+    color: white;
+}
+
+button, #contact-submit-btn, #aif-submit-btn {
+    background-color: black;
+    color: white;
+    border-radius: 7%;
+    padding: 1%;
+    width: fit-content;
+    align-self: center;
+}
+
+button:hover, #contact-submit-btn:hover, #aif-submit-btn:hover {
+    background-color: #541388;
+}
+
+#confirmation, #successAdd {
+    font-size: 12pt;
+    font-weight: 400;
+    text-align: center;
+}
+
+footer {
+    margin-top: auto;
+    background-color: #541388;
+    color: #50D1D3;
+    height: 81px;
+    justify-content: center;
+    align-items: center;
+}
+
+form {
+    gap: 30px;
+}
+
+form input {
+    margin-left: 5%;
+}
+
+form input, textarea {
+    border: 1px solid #541388;
+    border-radius: 5px;
+}
+
+#contact-form, #admin {
+    width: 50%;
+    border: 2px solid #541388;
+    border-radius: 30px;
+}
+
+/* CONTACT FORM */
+textarea {
+    width: 100%;
+    max-width: 100%;
+    height: 30%;
+}
+
+#contact-form {
+    justify-content: space-between;
+    width: 50%;
+    height: 60%;
+    padding: 4%;
+    margin: 4%;
+}
+
+#contact-form input {
+    width: 20%;
+}
+
+/* ADMIN FORM */
+#admin {
+   justify-content: space-around;
+   padding: 2%;
+   margin: 4%;
+   height: 75%;
+}
+
+#add-item-form {
+    padding: 0% 6%;
+    gap: 20px;
+}
+
+#item-quantity {
+    width: 50px;
+}
+
+/* FAQ VIEW */
+#faq {
+    margin: 50px;
+    gap: 5%;
+}
+.ques-text {
+    font-weight: bold;
+}

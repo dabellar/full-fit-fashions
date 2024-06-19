@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<!-- 
+    Name: Darleine Abellard
+    CS 132 SP 2024 
+    Final Project: Full Fit Fashions
+    This is the admin.html for Full Fit Fashions. This will allow admin to add inventory to the store.
+ -->
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Admin</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- LOGO CREDITS - Mix of:
+            https://www.flaticon.com/free-icons/mannequin" created by Icongeek26 
+            https://www.flaticon.com/free-icons/choose" created by juicy_fish
+    -->
+    <link rel="shortcut icon" href="imgs/website-logo.png" type="image/png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Moirai+One&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="non-shopping-styles.css">
+    <script src="utils.js"></script>
+    <script defer src="admin.js"></script>
+</head>
+<body>
+    <header>
+        <div>
+            <img src="imgs/website-logo.png" alt="Full Fit Fashions logo">
+            <h1>FULL FIT FASHIONS</h1>
+            <nav>
+                <ul>
+                    <li><a href="index.html">Shopping</a></li>
+                    <li><a href="#top">Admin</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                    <li><a href="faq.html">FAQs</a></li>
+                </ul>
+            </nav>
+        </div>
+        <p><span>Total Outfits for Total Confidence</span></p>
+        <h2>ADMIN PAGE: UPDATE ITEM</h2>
+    </header>
+    <main>
+        <section id="admin">
+            <!-- I would make this more a search and add function if I had more time -->
+            <form id="add-item-form">
+                <label for="item_category">
+                    Category: <input type="text" name="item_category" 
+                            id="item_category" required/>
+                </label>
+                <label for="item_type">
+                    Type: 
+                    <input type="text" name="item_type" 
+                            id="item_type" required/> 
+                </label>
+                <label for="item_name">
+                    Item Name: 
+                    <input type="text" name="item_name" 
+                            id="item_name" required/>
+                </label>
+                <label for="item_size">
+                    Item Size: 
+                    <input type="text" name="item_size" 
+                            id="item_size" required/>
+                </label>
+                <label for="item_quantity">
+                    Quantity: 
+                    <input type="number" name="item_quantity" 
+                            id="item_quantity" min="1" required/>
+                </label>
+                <input id="aif-submit-btn" type="submit" value="Add Item"/>
+                <div id="successAdd"></div>
+            </form>
+        </section>
+    </main>
+    <footer>
+        <p>Darleine Abellard &copy; 2024</p>
+    </footer>
+</body>
+</html>
